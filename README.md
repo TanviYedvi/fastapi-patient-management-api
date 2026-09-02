@@ -73,5 +73,4 @@ You can test all the API endpoints directly from the Swagger UI.
 
 **Tanvi Yedvi**
 
-B.Tech Artificial Intelligence & Data Science Student
-Currently learning **FastAPI and Backend Development**.
+B.Tech Artificial Intelligence & Data Science Student.
